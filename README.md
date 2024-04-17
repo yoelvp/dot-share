@@ -2,10 +2,12 @@
 
 **Dot Share** es una plataforma para poder compartir tus archivos de configuracíon de tu editor de código, sistema operativo, entre otras cosas. Lo que buscamos es hacer una comunidad para compartir tu universo de herramientas favoritas.
 
+Proyecto realizado para participar en [La Hackathon Del DEV](https://www.lahackathondeldev.com/)
+
 
 ## Backend
 
-- [Repositorio Backend By Nicolas](https://github.com/Nicccccolas/dot-share)
+- [Repositorio Backend](https://github.com/Nicccccolas/dot-share) by [Nicolas Pantoja](https://github.com/nicccccolas)
 
 
 ## Instalación
